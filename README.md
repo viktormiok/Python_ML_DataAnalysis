@@ -1,2 +1,2 @@
 # Python_ML_DataAnalysis
-Machine learning methods process data for features, train the models, assess the performance, and tune parameters for better performance.
+Machine learning techniques are used to process data into features, train models, evaluate their performance, and fine-tune parameters to enhance accuracy.
